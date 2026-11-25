@@ -1,0 +1,11 @@
+{
+  "name": "u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One nostalgic childhood-memory sentence for make.fun's AI judge",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
